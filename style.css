@@ -12,7 +12,7 @@ a, body{color: var(--dark-purple);}
 body { font: 16px/1.4rem 'Work Sans', sans-serif; background-color: var(--light-pink);}
 .bg_img{ background: url('./images/background-pattern-mobile.svg') no-repeat center / cover; min-height: 35vh;}
 .container{width: min(600px, 90%); margin-inline: auto;}
-.flex{display: flex; align-items: center;}
+.flex{display: flex; align-items: center; gap: 1.5rem;}
 .faq{
     background-color: var(--white);
     position: absolute;
@@ -23,7 +23,7 @@ body { font: 16px/1.4rem 'Work Sans', sans-serif; background-color: var(--light-
     border-radius: 1rem;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);    
 }
-.faq__heading{ gap: 1.5rem; padding-bottom: 1rem;}
+.faq__heading{ padding-bottom: 1rem;}
 .faq__heading h1{text-transform: uppercase; font-size: clamp(2vw, 2.2rem, 2.5rem);}
 /* .faq .question:hover,  .faq .question:focus{color: var(--grayish-purple);} */
 .faq .question + .question{border-top: 2px solid var(--light-pink);}
