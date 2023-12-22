@@ -35,7 +35,6 @@ Users should be able to:
 
 - Solution URL: [FAQ Accordion](https://github.com/ObiFaith/FAQ-Accordion)
 - Live Site URL: [Github Page](https://obifaith.github.io/FAQ-Accordion/)
-- Challenge URL: [On Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
 
 ## My process
 
